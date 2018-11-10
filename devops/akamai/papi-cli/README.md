@@ -18,7 +18,8 @@ This container image has been built based on [frolvlad/alpine-python3](https://h
 - bind-tools v9.12.2-P1 (dig)
 - Akamai CLI 1.0.2
 - Akamai edgegrid-python
-- Akamai CLI packages included: image-manager, property, purge
+- Akamai CLI packages included: 
+  * property
 
 
 ## BUILD
