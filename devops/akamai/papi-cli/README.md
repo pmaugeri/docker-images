@@ -49,5 +49,6 @@ Docker version 18 or above.
 
 ## Authors
 
-* **Pascal Maugeri** - @PascalMaugeri
+**Pascal Maugeri** - [@PascalMaugeri](https://twitter.com/PascalMaugeri)
+
 
